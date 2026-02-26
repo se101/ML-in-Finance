@@ -1,0 +1,1451 @@
+keyword,zero_pct,mean_interest
+home care,0.0,92.87
+oil,0.0,92.85
+medical supplies,0.0,92.3
+diagnostics,0.0,92.0
+steel,0.0,91.83
+insurance,0.0,91.02
+real estate investment,0.0,90.32
+heavy equipment,0.0,89.89
+podcast,0.0,89.64
+credit cards,0.0,89.6
+health care,0.0,89.45
+real estate,0.0,89.32
+google search,0.0,88.91
+disney+,0.0,88.87
+youtube,0.0,88.72
+credit card,0.0,88.51
+solar power,0.0,88.49
+medical office,0.0,88.49
+financial services,0.0,88.47
+silver,0.0,88.43
+wireless plans,0.0,88.32
+home equity,0.0,87.49
+automation,0.0,87.11
+life insurance,0.0,86.81
+zillow,0.0,86.79
+engineering,0.0,86.75
+professional services,0.0,86.62
+auto parts,0.0,86.57
+machine learning,0.0,86.49
+water bill,0.0,86.42
+battery storage,0.0,86.4
+clay,0.0,86.25
+wells fargo,0.0,86.13
+donation,0.0,86.09
+office real estate,0.0,86.0
+commercial services,0.0,86.0
+data usage,0.0,85.7
+social security office,0.0,85.68
+residential real estate,0.0,85.6
+construction,0.0,85.6
+software,0.0,85.57
+pharmaceutical,0.0,85.49
+food staples,0.0,85.36
+water utilities,0.0,85.28
+medical devices,0.0,85.23
+discount stores,0.0,85.17
+transmission lines,0.0,85.17
+home builder,0.0,85.0
+building products,0.0,84.91
+clinical trials,0.0,84.83
+home builders,0.0,84.81
+data center,0.0,84.66
+commercial property,0.0,84.62
+food security,0.0,84.08
+unemployment,0.0,84.0
+pet food,0.0,83.96
+asset management,0.0,83.94
+central bank,0.0,83.83
+internet service,0.0,83.81
+electric utility,0.0,83.72
+exchange rate,0.0,83.64
+gas price,0.0,83.62
+cleaning products,0.0,83.38
+wireless plan,0.0,83.23
+5g network,0.0,83.21
+circuit breaker,0.0,83.21
+platinum price,0.0,83.13
+building materials,0.0,83.08
+pay tv,0.0,83.04
+public utilities,0.0,82.94
+life sciences,0.0,82.83
+wireless spectrum,0.0,82.81
+food distributors,0.0,82.74
+cancer treatment,0.0,82.62
+online video,0.0,82.49
+transportation,0.0,82.43
+bank of america,0.0,82.42
+disney plus,0.0,82.38
+noi,0.0,82.34
+connected tv,0.0,82.32
+software engineering,0.0,82.23
+travel services,0.0,82.09
+information technology,0.0,82.04
+social media,0.0,81.92
+supply chain,0.0,81.79
+fraud detection,0.0,81.77
+air cargo,0.0,81.77
+api,0.0,81.74
+cap rate,0.0,81.68
+brick and mortar,0.0,81.58
+recycling,0.0,81.4
+home prices,0.0,81.36
+cloud migration,0.0,81.32
+public works,0.0,81.28
+it consulting,0.0,81.08
+online banking,0.0,81.02
+student housing,0.0,81.02
+airlines,0.0,80.92
+aluminum price,0.0,80.91
+influencer marketing,0.0,80.91
+water treatment,0.0,80.89
+ev charging,0.0,80.79
+netflix,0.0,80.77
+gold mining,0.0,80.6
+cancer research,0.0,80.6
+zinc,0.0,80.51
+steel prices,0.0,80.15
+system software,0.0,80.13
+medical diagnostics,0.0,80.0
+copper price,0.0,80.0
+inversion,0.0,79.85
+solar panels,0.0,79.77
+hotels,0.0,79.66
+capital markets,0.0,79.55
+stock exchange,0.0,79.47
+procter gamble,0.0,79.43
+iron ore,0.0,79.26
+self storage,0.0,79.23
+restaurants,0.0,79.17
+store brands,0.0,78.89
+engineering services,0.0,78.87
+it services,0.0,78.83
+property management,0.0,78.42
+broadband,0.0,78.4
+depression,0.0,78.25
+cyber security,0.0,78.23
+weight loss,0.0,78.17
+home improvement,0.0,78.15
+benefits,0.0,78.08
+retail pharmacy,0.0,77.91
+data processing,0.0,77.89
+inflation,0.0,77.74
+paper,0.0,77.68
+mobile data,0.0,77.58
+paper packaging,0.0,77.53
+data privacy,0.0,77.36
+soft drinks,0.0,77.06
+electric rates,0.0,76.89
+household products,0.0,76.87
+heavy machinery,0.0,76.64
+home depot,0.0,76.62
+digital transformation,0.0,76.6
+inflation rate,0.0,76.53
+luxury watches,0.0,76.51
+interest rates housing,0.0,76.11
+food manufacturers,0.0,76.02
+engineering firms,0.0,76.02
+gold,0.0,76.0
+gas station,0.0,76.0
+dividend stocks,0.0,75.91
+food retail,0.0,75.91
+snack foods,0.0,75.87
+mental health,0.0,75.79
+gas utilities,0.0,75.74
+systems software,0.0,75.4
+auto sales,0.0,75.3
+streaming service,0.0,75.23
+financial planning,0.0,74.98
+land development,0.0,74.96
+wind farm,0.0,74.77
+credit score,0.0,74.58
+fiber optic,0.0,74.38
+carbon steel,0.0,74.32
+electrical equipment,0.0,74.25
+glass,0.0,73.96
+nasdaq,0.0,73.89
+health it,0.0,73.85
+online shopping,0.0,73.75
+health insurance,0.0,73.49
+hotels resorts,0.0,73.45
+water stress,0.0,73.42
+sell stocks,0.0,73.25
+exxon mobil,0.0,73.21
+military budget,0.0,72.79
+energy security,0.0,72.77
+organic growth,0.0,72.26
+movies,0.0,72.21
+sand,0.0,72.13
+palladium price,0.0,72.02
+rate base,0.0,72.0
+rate case,0.0,71.92
+plastic resin,0.0,71.58
+cable tv,0.0,71.55
+energy supply,0.0,71.3
+profit margins,0.0,71.28
+ai power,0.0,71.21
+property tax,0.0,71.0
+heat pump,0.0,70.98
+mortgage rates,0.0,70.96
+property development,0.0,70.68
+price index,0.0,70.3
+hardware,0.0,70.26
+real estate stocks,0.0,70.13
+duke energy,0.0,69.83
+cement,0.0,69.83
+paper products,0.0,69.77
+exxon,0.0,69.68
+electricity bill,0.0,69.57
+silver mining,0.0,69.51
+autonomous vehicles,0.0,69.45
+medicare,0.0,69.19
+paramount plus,0.0,69.02
+stock prices,0.0,68.83
+energy drinks,0.0,68.7
+public utility,0.0,68.58
+gpu,0.0,68.51
+big tech,0.0,68.43
+ai search,0.0,67.83
+balance sheet,0.0,67.7
+oil price,0.0,67.68
+dividend kings,0.0,67.66
+bank capital,0.0,67.42
+fiber internet,0.0,67.32
+lockheed martin,0.0,67.25
+dividends,0.0,67.15
+consumer brands,0.0,66.89
+cruise lines,0.0,66.79
+digital advertising,0.0,66.77
+open source,0.0,66.42
+subscription services,0.0,66.38
+economic security,0.0,66.34
+blockchain technology,0.0,66.19
+dow jones,0.0,66.02
+gdp,0.0,65.94
+chevron,0.0,65.89
+construction equipment,0.0,65.83
+natural gas,0.0,65.6
+nuclear power,0.0,65.49
+computing,0.0,65.45
+copper mining,0.0,65.42
+home healthcare,0.0,65.25
+interest income,0.0,65.15
+energy stocks,0.0,65.0
+solar energy,0.0,64.4
+bankruptcy,0.0,64.32
+independent power,0.0,64.3
+gene therapy,0.0,64.21
+footwear,0.0,64.15
+interest rates,0.0,64.13
+capital gains,0.0,64.09
+industrial materials,0.0,64.04
+fast food,0.0,63.87
+net lease,0.0,63.58
+safe haven,0.0,63.25
+rental income,0.0,63.09
+rare earth,0.0,62.58
+lumber prices,0.0,62.53
+the depression,0.0,62.53
+boeing stock,0.0,62.13
+medical ai,0.0,62.02
+trucking,0.0,61.49
+shipping rates,0.0,61.34
+materials,0.0,61.32
+economy,0.0,61.19
+essential goods,0.0,60.98
+trade war,0.0,60.83
+phillips 66,0.0,60.77
+power demand,0.0,60.66
+circular economy,0.0,60.45
+basic materials,0.0,60.02
+net operating income,0.0,59.92
+tesla stock,0.0,59.83
+amazon stock,0.0,59.68
+nuclear energy,0.0,59.51
+oil prices,0.0,59.21
+silver price,0.0,59.06
+experience economy,0.019,58.89
+stock volatility,0.0,58.81
+stock market,0.0,58.81
+energy density,0.0,58.77
+hedge funds,0.0,58.45
+lumber price,0.0,58.43
+wti oil,0.0,58.32
+distribution network,0.0,58.09
+credit card debt,0.0,57.98
+gas prices,0.0,57.6
+gas utility,0.0,57.58
+artificial intelligence,0.0,57.53
+walmart stock,0.0,57.13
+disposable income,0.0,57.08
+prescription drugs,0.0,56.77
+prime rate,0.0,56.51
+charity,0.0,56.38
+energy crisis,0.0,56.23
+housing market,0.0,56.21
+property valuation,0.0,55.96
+home depot stock,0.0,55.91
+zyn pouches,0.0,55.74
+live sports,0.0,55.62
+energy transition,0.0,55.57
+intel stock,0.0,55.21
+subscription box,0.0,55.15
+carbon fiber,0.0,55.15
+sports betting,0.0,54.98
+air traffic,0.0,54.96
+market bottom,0.0,54.96
+property dividend,0.0,54.85
+insurance quotes,0.0,54.83
+used car prices,0.0,54.7
+medicaid,0.0,54.62
+property insurance,0.0,54.51
+plant based,0.0,54.4
+google stock,0.0,54.21
+stock returns,0.0,54.17
+general mills,0.0,54.02
+youtube ads,0.0,53.94
+capital goods,0.0,53.74
+bond yield,0.0,53.72
+great depression,0.0,53.72
+consumer demand,0.0,53.51
+infrastructure bill,0.0,53.43
+oil spill,0.0,53.02
+fertilizer,0.0,52.87
+berkshire hathaway,0.0,52.51
+power companies,0.0,52.45
+commercial real estate,0.0,52.04
+ups stock,0.0,52.0
+titanium,0.0,51.83
+heating oil,0.0,51.77
+health tech,0.0,51.17
+spotify,0.0,50.96
+biotech,0.0,50.87
+ozempic,0.0,50.81
+realty income,0.0,50.57
+podcast advertising,0.113,50.49
+fertilizer price,0.0,50.38
+clean energy,0.0,50.36
+sustainable packaging,0.0,50.23
+mutual fund,0.0,49.85
+twitter stock,0.0,49.57
+industrial automation,0.0,49.23
+satellite internet,0.0,49.21
+raw materials,0.0,48.96
+medicare advantage,0.0,48.92
+foreclosure,0.0,48.81
+apple stock,0.0,48.74
+identity management,0.0,48.62
+walmart grocery,0.0,48.42
+nuclear power plant,0.0,48.0
+costco stock,0.0,47.96
+ai healthcare,0.0,47.83
+defense budget,0.0,47.81
+ozempic stock,0.0,47.42
+gold etf,0.0,47.23
+safety trade,0.0,47.21
+money supply,0.0,46.96
+verizon stock,0.0,46.89
+airlines stock,0.0,46.34
+logistics warehouse,0.0,46.34
+online lending,0.0,46.15
+cord cutting,0.0,46.0
+durable goods,0.0,46.0
+copper supply,0.0,45.94
+urban development,0.0,45.79
+consumer spending,0.0,45.72
+forest products,0.0,45.7
+network security,0.0,45.68
+price of gold,0.0,45.68
+discretionary income,0.0,45.49
+market volatility,0.0,45.42
+union pacific,0.0,44.87
+federal reserve,0.0,44.55
+wind farms,0.0,44.49
+capital rates,0.0,44.47
+commercial aviation,0.0,44.25
+contract research,0.0,44.19
+lithium stocks,0.0,44.17
+vacancy rate,0.0,44.15
+apple iphone,0.0,44.0
+brokerage stocks,0.0,43.91
+crude oil,0.0,43.87
+factory orders,0.057,43.79
+healthy eating,0.0,43.49
+chevron stock,0.0,43.17
+crisis,0.0,43.11
+power outage,0.0,43.08
+inelastic demand,0.0,42.74
+lumber futures,0.0,42.68
+alphabet stock,0.0,42.3
+packaged food,0.0,42.11
+social security card,0.0,41.92
+stimulus,0.0,41.89
+hydrogen power,0.0,41.87
+hydroelectric power,0.0,41.75
+fda approval,0.0,41.47
+occupancy rate,0.0,40.77
+net metering,0.0,40.53
+uranium,0.0,40.49
+landlord,0.0,40.38
+big data,0.0,40.26
+gold price,0.0,40.09
+warren buffett,0.0,40.06
+household goods,0.0,40.0
+earnings report,0.0,39.6
+expense,0.0,39.6
+ai stock,0.0,39.51
+digital media,0.0,39.09
+banks,0.0,39.08
+power grid,0.0,39.0
+digital health,0.0,38.92
+deep learning,0.0,38.77
+hedge fund,0.0,38.7
+gaming,0.0,38.64
+at&t stock,0.0,38.57
+entertainment,0.0,38.42
+factory output,0.0,38.38
+occidental petroleum,0.0,38.21
+novo nordisk stock,0.0,38.21
+cloud gaming,0.0,37.96
+tiktok,0.0,37.81
+affordable housing,0.0,37.77
+organic foods,0.0,37.77
+consumer electronics,0.0,37.64
+growth stocks,0.0,37.6
+beverage companies,0.0,37.32
+broadcom stock,0.0,37.15
+streaming,0.0,36.98
+solar farms,0.0,36.92
+it spending,0.0,36.75
+disney stock,0.0,36.64
+the crisis,0.0,36.49
+pricing power,0.0,36.0
+aerospace,0.0,35.87
+commercial aircraft,0.0,35.55
+5g,0.0,35.19
+fossil fuels,0.0,35.19
+managed care,0.0,35.09
+cloud storage,0.0,35.06
+eli lilly stock,0.0,34.79
+battery materials,0.0,34.42
+kroger stock,0.0,34.28
+blue hydrogen,0.0,34.04
+metals,0.0,33.79
+fedex stock,0.0,33.77
+venture capital,0.0,33.75
+water utility,0.0,33.51
+defense spending,0.0,33.42
+private credit,0.0,33.36
+stock crash,0.0,33.36
+clinical trial,0.0,33.32
+live streaming,0.0,33.28
+cpi,0.0,33.23
+carbon neutral,0.0,33.19
+oil refinery,0.0,33.15
+video games,0.0,33.11
+steel industry,0.0,33.08
+weight loss drugs,0.0,33.06
+missile defense,0.0,32.96
+telehealth,0.0,32.85
+marathon oil,0.0,32.85
+operating systems,0.0,32.7
+oil production,0.0,32.64
+geothermal power,0.0,32.51
+reit dividend,0.0,32.45
+base metals,0.0,32.42
+commodity prices,0.0,32.15
+amd stock,0.0,31.98
+portfolio risk,0.0,31.96
+exchange rates,0.0,31.92
+online advertising,0.0,31.87
+starbucks stock,0.0,31.6
+cobalt price,0.0,31.6
+commodity futures,0.0,31.45
+funds from operations,0.208,31.43
+earnings,0.0,31.08
+hydrogen fuel,0.0,31.0
+digital security,0.0,30.94
+healthy snacks,0.0,30.92
+national debt,0.0,30.89
+discretionary earnings,0.453,30.45
+consumer services,0.0,30.42
+automotive stocks,0.453,30.38
+currency,0.0,30.11
+virtual reality,0.0,30.11
+net zero,0.0,30.06
+graphics cards,0.0,29.96
+savings,0.0,29.89
+dominion energy,0.0,29.87
+waste management,0.0,29.85
+volume growth,0.0,29.74
+oil rigs,0.0,29.68
+brand loyalty,0.0,29.64
+market crash,0.0,29.58
+the great depression,0.0,29.32
+cancer immunotherapy,0.0,29.28
+meta stock,0.0,29.19
+cyber threat,0.0,29.19
+construction costs,0.0,29.0
+nvidia stock,0.0,28.85
+rate hikes,0.0,28.62
+freight rates,0.0,28.38
+grocery stores,0.0,28.04
+input costs,0.019,27.75
+rental demand,0.0,27.74
+green chemicals,0.0,27.72
+rare disease,0.0,27.7
+housing crash,0.0,27.64
+investment portfolio,0.0,27.57
+personal care,0.0,27.32
+industrial stocks,0.0,27.04
+electric vehicle,0.0,27.02
+medicare reimbursement,0.0,26.64
+mrna vaccine,0.0,26.55
+timber prices,0.0,26.42
+energy storage,0.0,26.32
+packaged foods,0.0,26.26
+gold prices,0.0,26.19
+gold stocks,0.0,26.17
+robotic surgery,0.0,26.13
+snap stock,0.0,25.91
+cost of living,0.0,25.83
+consumer staples,0.0,25.81
+sports broadcasting,0.0,25.64
+credit rating,0.0,25.51
+chemical producers,0.17,25.36
+offshore wind,0.0,25.25
+oil stocks,0.0,25.06
+ott platform,0.0,25.0
+bp stock,0.0,24.85
+electricity prices,0.0,24.7
+network reach,0.0,24.64
+paints,0.0,24.62
+housing market crash,0.0,24.32
+defense contractors,0.0,24.08
+green steel,0.0,24.04
+purchasing power,0.0,23.96
+raytheon stock,0.0,23.83
+hygiene products,0.0,23.75
+retail space,0.0,23.66
+medical equipment,0.0,23.66
+game development,0.0,23.34
+defense contracts,0.0,23.32
+private label,0.0,23.32
+dollar stores,0.0,23.0
+air freight,0.0,22.89
+packaging,0.0,22.87
+peak demand,0.0,22.81
+resale market,0.0,22.77
+altria stock,0.0,22.75
+treasury bills,0.0,22.53
+material recycling,0.019,21.96
+construction materials,0.0,21.94
+kraft heinz,0.0,21.81
+phase 3 trial,0.0,21.62
+defense,0.0,21.58
+chemical industry,0.0,21.55
+renewable energy,0.0,21.51
+stock bottom,0.0,21.34
+vix,0.0,21.26
+fed rate,0.0,21.08
+power transmission,0.0,20.91
+treasury bonds,0.0,20.87
+weight loss drug,0.0,20.77
+investment banking,0.0,20.7
+green building,0.0,20.64
+investment bank,0.0,20.57
+ad revenue,0.0,20.49
+general mills stock,0.0,20.49
+glp-1,0.0,20.47
+agricultural products,0.0,20.43
+drug discovery,0.0,20.4
+advanced manufacturing,0.0,20.36
+american tower,0.0,20.3
+crown castle,0.0,20.3
+economic collapse,0.0,20.23
+investment banks,0.0,20.19
+live events,0.0,20.04
+housing recession,0.0,20.0
+meta,0.0,19.53
+hvac systems,0.0,19.53
+bankruptcy filing,0.0,19.49
+reits,0.0,19.38
+smart manufacturing,0.019,19.34
+downstream,0.0,19.23
+obesity drug,0.0,19.19
+short selling,0.0,19.19
+carbon credits,0.0,19.13
+reit,0.0,18.85
+capital flight,0.0,18.83
+initial public,0.0,18.75
+cobalt mining,0.0,18.55
+gasoline price,0.0,18.53
+residential property,0.0,18.49
+yield curve inversion,0.019,18.45
+metals mining,0.0,18.42
+real estate investing,0.0,18.21
+debt crisis,0.0,18.19
+augmented reality,0.0,18.17
+cleaning supplies,0.0,17.91
+solar utility,0.0,17.79
+cloud computing,0.0,17.75
+heavy trucks,0.0,17.68
+advertising,0.0,17.57
+retail sales,0.0,17.51
+nicotine pouches,0.0,17.49
+banking as a service,0.057,17.45
+industrial metals,0.019,17.36
+coal price,0.0,17.36
+coal,0.0,17.26
+rare diseases,0.0,17.25
+microsoft stock,0.0,17.21
+real estate etf,0.0,16.98
+neural network,0.0,16.85
+equity markets,0.0,16.85
+ai ads,0.0,16.83
+department stores,0.0,16.66
+drug retail,0.0,16.57
+philip morris,0.0,16.57
+oil reserves,0.0,16.51
+mrna vaccines,0.0,16.49
+athleisure,0.0,16.26
+yield curve,0.0,16.26
+chemicals,0.0,16.25
+movie slate,0.0,16.21
+trade down,0.0,16.13
+commercial bank,0.0,16.13
+brent crude,0.0,16.09
+property bubble,0.358,16.08
+dollar index,0.0,16.06
+generic drugs,0.0,16.02
+mobile banking,0.0,15.96
+triple net lease,0.0,15.92
+costco wholesale,0.0,15.87
+alcohol reset,0.113,15.85
+energy sector,0.0,15.85
+beverage industry,0.0,15.79
+carbon capture,0.0,15.75
+stock liquidation,0.038,15.75
+savings yield,0.0,15.66
+cargo shipping,0.0,15.53
+vix index,0.0,15.47
+net asset value,0.0,15.42
+industrial earnings,0.472,15.36
+shell stock,0.0,15.32
+consumer credit,0.0,15.32
+mcdonald's stock,0.0,15.26
+faang,0.0,15.25
+broadband access,0.0,15.21
+exploration,0.0,15.17
+uranium price,0.0,15.02
+stock dividends,0.0,14.98
+dividend yield,0.0,14.94
+stock broker,0.0,14.92
+ott platforms,0.623,14.91
+auto stocks,0.0,14.91
+wireless carriers,0.0,14.87
+paypal stock,0.0,14.87
+recession stocks,0.0,14.85
+restaurant stocks,0.057,14.79
+stress test,0.0,14.64
+risk premium,0.0,14.6
+shale oil,0.0,14.51
+computer hardware,0.0,14.45
+large language,0.0,14.4
+urban renewal,0.0,14.3
+diagnostic tests,0.0,14.26
+content library,0.0,14.25
+potash fertilizer,0.0,14.23
+steel stocks,0.132,14.17
+activision blizzard,0.0,14.15
+premium brands,0.0,14.11
+farm machinery,0.0,14.11
+government contracts,0.0,14.09
+rate hike,0.0,14.08
+stock drop,0.0,14.08
+investment trust,0.0,14.08
+fertilizer prices,0.019,14.06
+utility stocks,0.019,13.83
+home affordability,0.0,13.66
+s&p 500,0.0,13.66
+power generation,0.0,13.62
+eviction moratorium,0.0,13.6
+vaccines,0.0,13.58
+cyclical stocks,0.151,13.57
+oil futures,0.0,13.51
+smartphones,0.0,13.49
+copper,0.0,13.49
+comcast,0.0,13.47
+rent growth,0.0,13.42
+microchip,0.0,13.36
+automation software,0.0,13.3
+drug pricing,0.0,13.28
+telemedicine,0.0,13.26
+stock correction,0.226,13.17
+banking,0.0,13.13
+spotify stock,0.0,13.11
+bank earnings,0.0,13.11
+materials stocks,0.019,13.02
+5g spectrum,0.0,13.0
+social commerce,0.0,13.0
+asml stock,0.0,12.89
+buy now pay later,0.0,12.85
+real estate crash,0.0,12.81
+market collapse,0.0,12.79
+military drones,0.0,12.75
+content creator,0.0,12.75
+credit risk,0.0,12.74
+generative ai,0.0,12.7
+semiconductors,0.0,12.57
+credit default,0.0,12.57
+quantum computing,0.0,12.42
+great rotation,0.226,12.42
+property values,0.0,12.42
+gas stocks,0.0,12.38
+caterpillar stock,0.0,12.19
+wind energy,0.0,12.19
+chemical companies,0.0,12.17
+electricity demand,0.0,12.17
+poverty,0.0,12.04
+phosphate,0.0,11.96
+mining equipment,0.0,11.92
+media rights,0.0,11.81
+internet retail,0.0,11.81
+pipelines,0.0,11.79
+fed rate hike,0.0,11.79
+housing affordability,0.0,11.75
+shale gas,0.0,11.74
+green metals,0.0,11.68
+food inflation,0.0,11.62
+tech hardware,0.0,11.55
+wireless,0.0,11.49
+mutual funds,0.0,11.49
+cell towers,0.0,11.49
+economic growth,0.0,11.47
+home furnishings,0.0,11.36
+fdic,0.0,11.36
+mining,0.0,11.36
+pantry staples,0.0,11.3
+cap rates,0.0,11.25
+halliburton,0.0,11.21
+default,0.0,11.17
+steel mills,0.0,11.15
+electricity bills,0.0,11.15
+aluminum,0.0,11.15
+regional banks,0.0,11.13
+graphite,0.0,11.13
+ai stocks,0.0,10.91
+market fear,0.0,10.91
+chip shortage,0.0,10.89
+alcohol stocks,0.66,10.83
+residential reit,0.132,10.81
+mondelez stock,0.0,10.77
+housing inventory,0.0,10.75
+networking,0.0,10.68
+movie studios,0.0,10.68
+debt default,0.0,10.62
+load demand,0.0,10.49
+monetary policy,0.0,10.49
+bank run,0.0,10.45
+cryptocurrency,0.0,10.45
+resorts,0.0,10.42
+oil exploration,0.0,10.42
+pharmacy benefits,0.0,10.38
+logistics,0.0,10.36
+dividend yields,0.132,10.34
+lithium price,0.0,10.32
+warehouse automation,0.019,10.3
+carbon tax,0.0,10.26
+electric grid,0.0,10.23
+fintech,0.0,10.19
+nickel mining,0.415,10.19
+streaming revenue,0.019,10.15
+home sales,0.0,10.11
+gasoline prices,0.0,10.06
+visa stock,0.0,9.96
+real estate returns,0.0,9.96
+economic forecast,0.0,9.96
+tech layoffs,0.0,9.91
+food stocks,0.0,9.91
+phosphate fertilizer,0.057,9.85
+manufacturing,0.0,9.83
+real estate fund,0.0,9.83
+packaging materials,0.0,9.79
+silver etf,0.0,9.79
+economic downturn,0.0,9.74
+upstream oil,0.038,9.68
+cable providers,0.0,9.66
+shipping stocks,0.151,9.66
+construction stocks,0.132,9.64
+ad targeting,0.0,9.64
+climate change,0.0,9.64
+fiscal policy,0.0,9.6
+health services,0.0,9.55
+energy efficiency,0.0,9.53
+foreign investment,0.0,9.42
+unemployment rate,0.0,9.4
+specialty chemicals,0.0,9.32
+multifamily housing,0.0,9.3
+southern company,0.0,9.28
+wireless service,0.0,9.21
+bear market,0.0,9.09
+stock rally,0.0,9.08
+buy now pay,0.0,9.06
+credit crisis,0.0,9.04
+fast fashion,0.0,9.0
+green buildings,0.0,8.94
+redfin,0.0,8.94
+lithium,0.0,8.92
+healthcare stocks,0.0,8.92
+lending stocks,0.264,8.91
+mortgage default,0.0,8.87
+electric utilities,0.0,8.85
+gta 6,0.0,8.83
+apparel retail,0.019,8.83
+industrial machinery,0.0,8.72
+bankrupt,0.0,8.7
+memory chips,0.0,8.66
+bond crash,0.208,8.62
+loan rates,0.0,8.62
+defense stocks,0.0,8.53
+inverted yield curve,0.0,8.49
+financial panic,0.283,8.49
+dividend,0.0,8.47
+oil rig,0.0,8.45
+fdic insurance,0.0,8.45
+household brands,0.547,8.45
+industrial production,0.0,8.43
+glp-1 drugs,0.0,8.38
+balance of trade,0.0,8.34
+saas,0.0,8.34
+payment systems,0.0,8.32
+capital flows,0.0,8.3
+nickel price,0.0,8.15
+silicon valley,0.0,8.15
+black monday,0.0,8.15
+digital infrastructure,0.019,8.11
+liquidity,0.0,8.09
+luxury housing,0.0,8.06
+clean tech,0.0,8.06
+wti crude,0.0,8.04
+casual dining,0.0,7.92
+manufacturing index,0.038,7.87
+value shopping,0.0,7.87
+permian basin,0.0,7.87
+rail transport,0.0,7.81
+recycling metals,0.0,7.77
+equipment leasing,0.0,7.77
+strategic reserves,0.189,7.75
+dine out,0.0,7.74
+advertising revenue,0.0,7.72
+marine shipping,0.0,7.62
+specialty retail,0.038,7.62
+steel tariffs,0.396,7.6
+battery metals,0.0,7.57
+software revenue,0.0,7.57
+precious metals,0.0,7.55
+passive income,0.0,7.51
+honeywell stock,0.0,7.49
+medical robotics,0.094,7.49
+data center power,0.019,7.47
+metaverse,0.0,7.45
+nickel,0.0,7.4
+outsourcing,0.0,7.38
+financial crisis,0.0,7.34
+oil companies,0.0,7.3
+valero energy,0.019,7.28
+edge computing,0.0,7.26
+opec,0.0,7.26
+defensive stocks,0.226,7.25
+green hydrogen,0.0,7.23
+credit downgrade,0.0,7.23
+therapeutics,0.0,7.21
+coca-cola stock,0.0,7.13
+airlines stocks,0.0,7.09
+uranium mining,0.0,7.08
+steel price,0.0,7.06
+currency market,0.0,7.04
+coca cola stock,0.0,6.98
+reinsurance,0.0,6.96
+streaming services,0.0,6.96
+simon property,0.0,6.87
+digital realty,0.0,6.85
+purchasing managers,0.019,6.85
+railroads,0.0,6.85
+critical minerals,0.0,6.7
+wall street,0.0,6.66
+alphabet,0.0,6.64
+rail transportation,0.0,6.64
+trucking industry,0.0,6.64
+direct to consumer,0.0,6.64
+strategic petroleum reserve,0.075,6.57
+inflation risk,0.019,6.53
+digital twins,0.0,6.28
+dividend aristocrats,0.0,6.28
+staples stocks,0.264,6.26
+medical cannabis,0.0,6.25
+mobile payments,0.0,6.23
+cement prices,0.34,6.23
+interest rate risk,0.0,6.23
+enterprise software,0.0,6.19
+capitalization,0.0,6.19
+equity market,0.0,6.11
+healthier options,0.0,6.11
+default risk,0.0,6.11
+industrial etf,0.151,6.08
+construction starts,0.0,6.04
+triple net,0.0,6.0
+aerospace defense,0.0,5.98
+rare earths,0.038,5.96
+holiday spending,0.396,5.94
+tightening,0.0,5.92
+consumer price,0.0,5.91
+silica,0.0,5.89
+schlumberger,0.0,5.89
+debt ceiling,0.453,5.89
+oil embargo,0.019,5.89
+household essentials,0.057,5.89
+digital ads,0.0,5.87
+volume decline,0.34,5.83
+carbon footprint,0.0,5.81
+bank failure,0.0,5.81
+electric vehicles,0.0,5.79
+economic crisis,0.0,5.75
+pinterest stock,0.0,5.74
+loan growth,0.019,5.74
+forestry,0.0,5.74
+telecommunication,0.0,5.72
+silicon wafers,0.491,5.7
+bank failures,0.0,5.7
+nike stock,0.0,5.7
+supply chain costs,0.057,5.66
+pentagon budget,0.396,5.66
+quantitative easing,0.0,5.66
+medical insurance,0.0,5.64
+interest hike,0.0,5.62
+semiconductor shortage,0.472,5.6
+ai agents,0.075,5.58
+resource scarcity,0.113,5.53
+recession proof,0.0,5.47
+rate cut,0.0,5.45
+sustainable aviation,0.0,5.43
+water conservation,0.0,5.42
+magnificent seven,0.0,5.42
+load growth,0.321,5.42
+brent oil,0.0,5.4
+immunotherapy,0.0,5.34
+food producers,0.0,5.28
+biotech stocks,0.0,5.28
+kimberly clark stock,0.0,5.25
+pipeline projects,0.321,5.25
+downstream oil,0.302,5.25
+fast channels,0.0,5.23
+infrastructure,0.0,5.21
+devops,0.0,5.21
+construction machinery,0.0,5.15
+business cycle,0.0,5.13
+sustainable materials,0.0,5.11
+cancer drugs,0.0,5.11
+utility bills,0.0,5.09
+facebook stock,0.0,5.08
+budget deficit,0.0,5.08
+casinos,0.0,5.04
+hospitals,0.0,5.02
+wind utility,0.377,4.92
+mastercard stock,0.0,4.87
+wireless data,0.0,4.87
+mortgage lending,0.0,4.85
+capacity market,0.0,4.83
+semiconductor equipment,0.113,4.79
+commodity inflation,0.434,4.79
+recycling materials,0.0,4.77
+distributed generation,0.057,4.77
+senior housing,0.0,4.75
+machinery,0.0,4.74
+energy etfs,0.283,4.72
+jpmorgan,0.0,4.7
+lumber,0.0,4.66
+derivative,0.0,4.64
+housing supply,0.0,4.62
+build to rent,0.0,4.6
+natural gas utility,0.0,4.57
+foreclosure rates,0.057,4.55
+property stocks,0.0,4.53
+oil dividends,0.321,4.49
+stock market crash,0.0,4.47
+nand flash,0.038,4.4
+obesity drugs,0.0,4.36
+aircraft orders,0.849,4.34
+commercial jets,0.0,4.26
+smart meter,0.0,4.26
+procter gamble stock,0.0,4.25
+pharmacy benefit,0.0,4.19
+unitedhealth stock,0.34,4.15
+carbon emission,0.0,4.15
+tiktok ban,0.0,4.15
+oil demand,0.0,4.13
+luxury brands,0.0,4.13
+hydropower,0.0,4.13
+mvno,0.0,4.11
+small reactors,0.132,4.09
+media earnings,0.302,4.08
+networking equipment,0.132,4.04
+healthcare etf,0.0,4.04
+cloud 3.0,0.019,4.02
+container packaging,0.0,4.02
+chipotle stock,0.0,4.0
+real estate bubble,0.0,4.0
+treasury yields,0.0,3.98
+zinc price,0.0,3.96
+oil dividend,0.0,3.92
+waste management stock,0.0,3.89
+pepsico stock,0.0,3.87
+power infrastructure,0.0,3.87
+gas turbines,0.019,3.85
+financial regulation,0.0,3.81
+black friday sales,0.566,3.79
+banking crisis,0.019,3.79
+broadcasting,0.0,3.75
+cyber defense,0.0,3.75
+retail earnings,0.208,3.74
+internet stock,0.0,3.72
+media stocks,0.094,3.7
+subscription economy,0.623,3.64
+hotel reit,0.83,3.64
+airline stocks,0.038,3.62
+freight stocks,0.868,3.62
+flight to quality,0.057,3.62
+system integration,0.0,3.62
+risk off,0.0,3.55
+citigroup,0.0,3.55
+infrastructure spending,0.038,3.55
+ai boom,0.113,3.53
+economic outlook,0.0,3.51
+smart grid,0.0,3.49
+ism manufacturing,0.509,3.49
+equity risk,0.0,3.45
+energy dividends,0.0,3.45
+war stocks,0.0,3.43
+biologics,0.0,3.42
+stock buyback,0.0,3.4
+stock valuation,0.0,3.4
+oil supply,0.0,3.32
+pipeline stock,0.0,3.3
+potash,0.0,3.28
+bank bailout,0.34,3.28
+black friday,0.642,3.28
+rental yield,0.057,3.26
+real estate dividend,0.0,3.26
+automobile manufacturers,0.057,3.26
+investment advice,0.0,3.25
+rail freight,0.0,3.25
+etf,0.0,3.23
+grocery stocks,0.717,3.23
+frugal,0.0,3.21
+strategic reserve,0.0,3.21
+oil shortage,0.019,3.21
+market outlook,0.0,3.19
+bond default,0.0,3.19
+portfolio loss,0.094,3.19
+travel stocks,0.075,3.17
+consumer finance,0.0,3.15
+pharma stocks,0.132,3.15
+inflation hedge,0.075,3.15
+foundry,0.0,3.13
+financial reform,0.038,3.11
+blackrock stock,0.0,3.09
+apparel brands,0.0,3.09
+manufacturing output,0.038,3.08
+credit spreads,0.0,3.08
+fertilizers,0.0,3.08
+consumer necessities,0.774,3.08
+hard assets,0.057,3.06
+large language model,0.0,3.06
+corporate profits,0.0,3.06
+luxury goods,0.0,3.04
+yield inversion,0.075,3.04
+raytheon,0.0,3.04
+brokerage accounts,0.0,3.02
+market downturn,0.132,3.0
+bank collapse,0.66,2.98
+order backlog,0.717,2.96
+internet infrastructure,0.0,2.96
+real estate crowdfunding,0.038,2.96
+gold mining stocks,0.472,2.94
+property casualty,0.0,2.94
+foreclosure rate,0.057,2.92
+office vacancy,0.038,2.92
+cyber monday,0.509,2.92
+discretionary spending,0.0,2.91
+electrification,0.0,2.91
+stock brokerage,0.0,2.85
+commodity stocks,0.208,2.85
+private equity,0.0,2.83
+discount retailers,0.075,2.81
+utility monopoly,0.34,2.79
+financial stress,0.0,2.79
+rent inflation,0.0,2.79
+public utility commission,0.0,2.79
+oil inventory,0.0,2.79
+insurance stocks,0.0,2.79
+platinum group,0.0,2.79
+midstream,0.0,2.75
+crispr therapy,0.208,2.72
+big box retail,0.755,2.7
+consumer discretionary,0.0,2.7
+netflix ads,0.0,2.7
+rent prices,0.0,2.7
+trade deficit,0.019,2.66
+health insurers,0.0,2.66
+robotics,0.0,2.64
+car donate,0.0,2.64
+semiconductor,0.0,2.64
+margin pressure,0.642,2.64
+ar vr,0.0,2.62
+theme parks,0.0,2.62
+solar stocks,0.0,2.62
+xlk etf,0.283,2.6
+nextera energy,0.0,2.58
+t-mobile stock,0.0,2.58
+energy etf,0.0,2.57
+student loan refinancing,0.057,2.55
+online platforms,0.0,2.53
+tsmc stock,0.0,2.53
+asset managers,0.0,2.53
+chemical stocks,0.698,2.51
+deflation,0.0,2.51
+wind power,0.0,2.51
+loan defaults,0.019,2.51
+economic indicators,0.0,2.49
+precision medicine,0.0,2.47
+user engagement,0.019,2.47
+industrial gases,0.057,2.47
+chip stocks,0.0,2.47
+military contracts,0.0,2.43
+consumer cyclical,0.113,2.42
+economic stimulus,0.0,2.42
+recession,0.0,2.42
+ipo,0.0,2.38
+coal stock,0.0,2.36
+humanoid robots,0.113,2.36
+cable companies,0.0,2.34
+black swan,0.0,2.34
+manufacturing stocks,0.132,2.32
+consumer retail,0.0,2.32
+utility infrastructure,0.377,2.3
+asset prices,0.019,2.3
+gpus,0.0,2.3
+opec news,0.755,2.28
+crypto bank,0.0,2.26
+health stocks,0.0,2.26
+tech sector,0.019,2.25
+restaurants stocks,0.283,2.25
+wealth management,0.0,2.23
+costco grocery,0.0,2.19
+goldman sachs,0.0,2.19
+pay-per-view,0.0,2.17
+copper stocks,0.075,2.17
+proptech,0.0,2.15
+pharmacy stocks,0.66,2.13
+oil drilling,0.0,2.11
+house hacking,0.0,2.11
+online classifieds,0.0,2.11
+payment processing,0.0,2.04
+freight rail,0.0,2.04
+silver rally,0.698,2.04
+consumer confidence,0.0,2.04
+game streaming,0.0,2.02
+medical imaging,0.0,2.02
+economic uncertainty,0.057,2.0
+online gaming,0.0,2.0
+housing demand,0.0,2.0
+industrial output,0.038,2.0
+oil surplus,0.113,1.98
+oncology,0.0,1.98
+mining jobs,0.0,1.98
+space infrastructure,0.302,1.96
+interactive media,0.0,1.96
+bank liquidity,0.0,1.94
+recession risk,0.226,1.92
+oil refining,0.0,1.89
+vehicle sales,0.0,1.89
+healthcare reit,0.057,1.87
+casinos gaming,0.0,1.85
+monthly active users,0.019,1.85
+factory automation,0.019,1.83
+single family rental,0.0,1.83
+semiconductor stocks,0.0,1.81
+small modular reactor,0.453,1.79
+systemic risk,0.0,1.79
+refinance,0.0,1.79
+compute demand,0.358,1.77
+market liquidity,0.019,1.77
+staples etf,0.226,1.75
+defense etf,0.094,1.75
+oncology drugs,0.189,1.75
+user growth,0.019,1.74
+drug pipeline,0.075,1.74
+margin call,0.0,1.72
+corporate debt,0.0,1.72
+crispr,0.0,1.72
+ai chips,0.057,1.7
+dividend utility,0.453,1.7
+capital controls,0.019,1.7
+surgical robots,0.717,1.66
+net interest income,0.019,1.64
+bank stocks,0.0,1.62
+tech stocks,0.0,1.62
+infrastructure stocks,0.566,1.6
+netflix subs,0.642,1.58
+creator economy,0.038,1.55
+utility dividend,0.453,1.53
+news paywall,0.0,1.51
+broadband providers,0.0,1.51
+application software,0.0,1.49
+small modular reactors,0.528,1.49
+value stocks,0.0,1.49
+content spending,0.189,1.49
+oil sanctions,0.226,1.49
+market correction,0.038,1.47
+quantitative tightening,0.189,1.47
+antitrust tech,0.774,1.45
+bank merger,0.0,1.43
+esg investing,0.038,1.42
+mining exploration,0.245,1.42
+currency crisis,0.094,1.4
+conocophillips,0.0,1.38
+oil well,0.0,1.36
+weapons manufacturer,0.849,1.34
+utilities stocks,0.396,1.32
+industrial robotics,0.17,1.3
+orphan drugs,0.321,1.3
+spectrum auction,0.623,1.28
+credit crunch,0.0,1.28
+inverted yield,0.0,1.26
+unilever stock,0.019,1.25
+exchange stocks,0.0,1.25
+stock buybacks,0.057,1.23
+content streaming,0.0,1.23
+ppi,0.0,1.23
+bond market,0.0,1.21
+digital banking,0.0,1.21
+banking sector,0.019,1.19
+pipeline drugs,0.585,1.19
+vacancy rates,0.038,1.17
+bond yields,0.0,1.17
+asset allocation,0.0,1.17
+desalination,0.0,1.15
+arpu,0.019,1.15
+corporate default,0.075,1.15
+apartment reit,0.736,1.13
+leisure spending,0.811,1.11
+net interest margin,0.094,1.09
+gaming media,0.0,1.09
+crypto banks,0.094,1.09
+commercial banking,0.0,1.08
+lithium mining,0.0,1.08
+colgate stock,0.019,1.08
+stress tests,0.0,1.08
+kellogg stock,0.019,1.08
+staycation,0.0,1.06
+energy infrastructure,0.019,1.06
+energy index,0.0,1.06
+health sector,0.0,1.06
+xle,0.0,1.06
+esports,0.0,1.04
+reit dividends,0.038,1.04
+smelting,0.0,1.04
+e-sports,0.038,1.04
+ott media,0.774,1.04
+brokerage,0.0,1.02
+refinery,0.0,1.02
+financial distress,0.094,1.02
+satellite radio,0.0,1.02
+tech stock,0.0,1.02
+paint stocks,0.792,1.02
+dividend cut,0.057,1.02
+video platform,0.0,1.02
+devaluation,0.019,1.02
+bull market,0.057,1.02
+data centers,0.0,1.0
+med tech,0.0,1.0
+tiktok trends,0.0,1.0
+6g,0.0,1.0
+beverages,0.0,1.0
+biopharma,0.0,1.0
+publishing,0.0,1.0
+palladium,0.0,1.0
+pharmaceuticals,0.0,1.0
+telecommunications,0.0,1.0
+electricity rates,0.0,1.0
+warehousing,0.0,1.0
+online dating,0.0,1.0
+discount retailer,0.189,1.0
+broadband internet,0.0,1.0
+e-commerce,0.0,1.0
+stock downgrade,0.547,1.0
+risk appetite,0.057,1.0
+bearish,0.0,1.0
+fiber broadband,0.0,1.0
+space stocks,0.038,0.98
+booking holdings,0.038,0.98
+portfolio diversification,0.17,0.98
+unemployed,0.019,0.98
+biosimilars,0.019,0.98
+commercial banks,0.057,0.98
+software stock,0.019,0.98
+biotechnology,0.019,0.98
+5g technology,0.057,0.96
+patent expiry,0.868,0.96
+semiconductor chips,0.057,0.94
+market rally,0.094,0.94
+corporate earnings,0.151,0.94
+credit card stocks,0.057,0.94
+utility regulation,0.755,0.94
+broker dealers,0.057,0.94
+credit spread,0.057,0.94
+bank regulation,0.094,0.94
+instagram ads,0.057,0.94
+commodities,0.075,0.92
+cardiology tech,0.566,0.92
+petrochemicals,0.113,0.91
+bioengineering,0.094,0.91
+property defaults,0.585,0.91
+networking hardware,0.094,0.91
+midstream oil,0.094,0.91
+offshore drilling,0.113,0.89
+aggregates,0.113,0.89
+drug approvals,0.208,0.89
+grocery inflation,0.113,0.89
+uranium stocks,0.17,0.87
+tech valuation,0.226,0.87
+utility etf,0.66,0.87
+decarbonization,0.151,0.85
+rating downgrade,0.698,0.85
+value retail,0.151,0.85
+short form video,0.151,0.85
+consumer defensive,0.792,0.83
+shell plc,0.17,0.83
+mineral extraction,0.434,0.83
+ffo,0.17,0.83
+warehouse demand,0.283,0.83
+storage reit,0.774,0.81
+grid infrastructure,0.226,0.81
+5g stock,0.189,0.81
+trading halt,0.434,0.81
+aerospace stocks,0.849,0.81
+logistics warehouses,0.491,0.79
+stock panic,0.377,0.79
+healthcare m&a,0.623,0.77
+retail staples,0.226,0.77
+cloud stocks,0.245,0.77
+equity reit,0.226,0.77
+embedded finance,0.264,0.77
+serverless computing,0.302,0.75
+earnings guidance,0.358,0.75
+tobacco stocks,0.887,0.74
+ai infrastructure,0.264,0.74
+industrial minerals,0.377,0.72
+health ai,0.283,0.72
+upstream,0.302,0.7
+podcast network,0.302,0.7
+wealth destruction,0.755,0.7
+ipo market,0.302,0.7
+entertainment stocks,0.302,0.7
+corporate bankruptcy,0.302,0.7
+utility dividends,0.792,0.68
+earnings season,0.321,0.68
+weapons stocks,0.698,0.68
+data center demand,0.849,0.66
+utility sector,0.66,0.66
+restaurant spending,0.34,0.66
+platform regulation,0.887,0.66
+trading revenue,0.34,0.66
+medicare stocks,0.868,0.64
+hyperinflation,0.396,0.62
+retail sales data,0.377,0.62
+shadow banking,0.434,0.6
+advertising stocks,0.849,0.6
+robotics stocks,0.679,0.6
+utility earnings,0.811,0.58
+safety rotation,0.717,0.58
+rail stocks,0.623,0.57
+surgical robotics,0.434,0.57
+property dividends,0.434,0.57
+drilling permits,0.453,0.55
+content licensing,0.453,0.55
+share buybacks,0.585,0.55
+textiles,0.472,0.53
+cre debt,0.887,0.51
+marine ports,0.66,0.51
+media consolidation,0.509,0.49
+economic depression,0.509,0.49
+remote work real estate,0.528,0.47
+digital wallets,0.528,0.47
+media conglomerates,0.528,0.47
+streaming subscribers,0.528,0.47
+regulated utility,0.849,0.45
+health insurance stocks,0.566,0.45
+messaging platforms,0.547,0.45
+ev manufacturing,0.547,0.45
+market rotation,0.547,0.45
+pipeline stocks,0.849,0.43
+petroleum stocks,0.66,0.42
+optical networking,0.811,0.4
+aging population,0.604,0.4
+hospital stocks,0.604,0.4
+renewable utility,0.642,0.4
+stable earnings,0.792,0.38
+social media stocks,0.811,0.38
+cargo demand,0.887,0.36
+semiconductor stock,0.642,0.36
+staples sector,0.83,0.36
+lng exports,0.887,0.36
+property valuations,0.679,0.34
+railroad stocks,0.679,0.34
+basel iii,0.679,0.32
+lending standards,0.755,0.32
+lng export,0.698,0.3
+grid modernization,0.887,0.3
+drug approval,0.736,0.3
+telecom spectrum,0.83,0.3
+energy earnings,0.698,0.3
+plastics resin,0.849,0.3
+alzheimer’s treatment,0.717,0.28
+nickel supply,0.717,0.28
+crypto banking,0.736,0.28
+reit returns,0.868,0.28
+iphone sales,0.736,0.26
+bulk commodities,0.887,0.26
+netflix stock,0.736,0.26
+agricultural chemicals,0.755,0.25
+waste management stocks,0.887,0.25
+stock circuit breaker,0.887,0.25
+genomics,0.774,0.23
+cybersecurity stocks,0.774,0.23
+refinery stock,0.792,0.23
+aluminum stocks,0.868,0.23
+coal stocks,0.811,0.21
+commercial aerospace,0.792,0.21
+hardware stocks,0.811,0.19
+glass manufacturing,0.811,0.19
+grid reliability,0.83,0.17
+sunbelt migration,0.83,0.17
+nuclear utility,0.849,0.15
+lithium demand,0.849,0.15
+industrials sector,0.849,0.15
+capital adequacy,0.849,0.15
+dividend cuts,0.887,0.15
+equity reits,0.868,0.13
+vaccine stocks,0.868,0.13
+drone stocks,0.868,0.13
+tech earnings,0.887,0.13
+software sector,0.868,0.13
+consumer sentiment,0.887,0.11
+financial sector,0.887,0.11
+defense contractor,0.887,0.11
+property vacancies,0.887,0.11
+office reit,0.887,0.11
+currency devaluation,0.887,0.11
+shrinkflation,0.887,0.11
